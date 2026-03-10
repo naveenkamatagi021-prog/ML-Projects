@@ -1,5 +1,4 @@
 # ML-Projects
-# ML-Projects
 
 This repository contains my Machine Learning practice projects built as part of my learning journey in Artificial Intelligence and Data Science.
 
